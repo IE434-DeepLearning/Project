@@ -15,3 +15,7 @@ It records all the information that is related to the permit application for con
 The data type includes numeric, categorical,time-based, textual classes. 
 From the information in the column descriptions, our project scope might include performing exploratory data analysis to find interesting results, 
 predicting the time it will take for a permit to be issued, and predicting whether the application is approved. 
+
+## Google Drive:
+
+https://drive.google.com/drive/u/1/folders/1X3OF-UOsQUpWcthk5WI9XB4BEfio5Yqp
